@@ -1,0 +1,7 @@
+D:\Projects\Moomoo Client\obj\Release\Moomoo Client.csprojAssemblyReference.cache
+D:\Projects\Moomoo Client\obj\Release\Moomoo Client.exe.config
+D:\Projects\Moomoo Client\obj\Release\Moomoo_Client.MainWindow.resources
+D:\Projects\Moomoo Client\obj\Release\Moomoo_Client.Properties.Resources.resources
+D:\Projects\Moomoo Client\obj\Release\Moomoo_Client.SpawnForm.resources
+D:\Projects\Moomoo Client\obj\Release\Moomoo Client.csproj.GenerateResource.cache
+D:\Projects\Moomoo Client\obj\Release\Moomoo Client.csproj.CoreCompileInputs.cache

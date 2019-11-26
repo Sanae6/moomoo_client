@@ -1,0 +1,51 @@
+C:\Users\atmat\source\repos\Moomoo Client\bin\Debug\Moomoo Client.exe.config
+C:\Users\atmat\source\repos\Moomoo Client\bin\Debug\Moomoo Client.exe
+C:\Users\atmat\source\repos\Moomoo Client\bin\Debug\Moomoo Client.pdb
+C:\Users\atmat\source\repos\Moomoo Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\atmat\source\repos\Moomoo Client\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\atmat\source\repos\Moomoo Client\bin\Debug\WebSocket4Net.dll
+C:\Users\atmat\source\repos\Moomoo Client\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\atmat\source\repos\Moomoo Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\atmat\source\repos\Moomoo Client\obj\Debug\Moomoo Client.csprojAssemblyReference.cache
+C:\Users\atmat\source\repos\Moomoo Client\obj\Debug\Moomoo_Client.Form1.resources
+C:\Users\atmat\source\repos\Moomoo Client\obj\Debug\Moomoo_Client.Properties.Resources.resources
+C:\Users\atmat\source\repos\Moomoo Client\obj\Debug\Moomoo Client.csproj.GenerateResource.cache
+C:\Users\atmat\source\repos\Moomoo Client\obj\Debug\Moomoo Client.csproj.CoreCompileInputs.cache
+C:\Users\atmat\source\repos\Moomoo Client\obj\Debug\Moomoo Client.csproj.CopyComplete
+C:\Users\atmat\source\repos\Moomoo Client\obj\Debug\Moomoo Client.exe
+C:\Users\atmat\source\repos\Moomoo Client\obj\Debug\Moomoo Client.pdb
+D:\Projects\Moomoo Client\obj\Debug\Moomoo Client.csprojAssemblyReference.cache
+D:\Projects\Moomoo Client\obj\Debug\Moomoo Client.csproj.GenerateResource.cache
+D:\Projects\Moomoo Client\obj\Debug\Moomoo Client.exe
+D:\Projects\Moomoo Client\obj\Debug\Moomoo Client.pdb
+D:\Projects\Moomoo Client\bin\Debug\Moomoo Client.exe.config
+D:\Projects\Moomoo Client\bin\Debug\Moomoo Client.exe
+D:\Projects\Moomoo Client\bin\Debug\Moomoo Client.pdb
+D:\Projects\Moomoo Client\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Moomoo Client\bin\Debug\SuperSocket.ClientEngine.dll
+D:\Projects\Moomoo Client\bin\Debug\WebSocket4Net.dll
+D:\Projects\Moomoo Client\bin\Debug\Newtonsoft.Json.pdb
+D:\Projects\Moomoo Client\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Moomoo Client\obj\Debug\Moomoo_Client.Properties.Resources.resources
+D:\Projects\Moomoo Client\obj\Debug\Moomoo Client.csproj.CopyComplete
+D:\Projects\Moomoo Client\obj\Debug\Moomoo_Client.MainWindow.resources
+D:\Projects\Moomoo Client\obj\Debug\Moomoo_Client.SpawnForm.resources
+D:\Projects\Moomoo Client\obj\Debug\Moomoo Client.exe.config
+D:\Projects\Moomoo Client\bin\Debug\System.Data.Common.dll
+D:\Projects\Moomoo Client\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Projects\Moomoo Client\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Projects\Moomoo Client\bin\Debug\System.Globalization.Extensions.dll
+D:\Projects\Moomoo Client\bin\Debug\System.IO.Compression.dll
+D:\Projects\Moomoo Client\bin\Debug\System.Net.Http.dll
+D:\Projects\Moomoo Client\bin\Debug\System.Net.Sockets.dll
+D:\Projects\Moomoo Client\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Projects\Moomoo Client\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Projects\Moomoo Client\bin\Debug\System.Security.SecureString.dll
+D:\Projects\Moomoo Client\bin\Debug\System.Threading.Overlapped.dll
+D:\Projects\Moomoo Client\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Projects\Moomoo Client\bin\Debug\MessagePack.dll
+D:\Projects\Moomoo Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\Moomoo Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projects\Moomoo Client\bin\Debug\MessagePack.xml
+D:\Projects\Moomoo Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\Moomoo Client\bin\Debug\System.Threading.Tasks.Extensions.xml
