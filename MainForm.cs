@@ -104,10 +104,7 @@ namespace Moomoo_Client
         }
         private void Reset()
         {
-            foreach (KeyValuePair<Control,bool> entry in groupControls)
-            {
-                entry.Key.InvokeEx(c=>c.Enabled = entry.Value);
-            }
+            button1.Enabled = true;
         }
 
         private void Ws_DataReceived(object sender, DataReceivedEventArgs e)
